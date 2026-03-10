@@ -379,11 +379,11 @@ function displayResults(correct, incorrect, unattempted, nimcetWeightedScore) {
 const collegeData = [
     // ── CUET PG Colleges (NITs do NOT accept CUET PG for MCA) ────────────
     // Cutoff scores are out of 300 (75 questions × 4 marks)
-    { name: 'Delhi University (DU) — South Campus',  exam: 'CUET', category: 'General', cutoffScore: 185 },
-    { name: 'Delhi University (DU) — South Campus',  exam: 'CUET', category: 'OBC',     cutoffScore: 162 },
-    { name: 'Delhi University (DU) — South Campus',  exam: 'CUET', category: 'SC',      cutoffScore: 128 },
-    { name: 'Delhi University (DU) — South Campus',  exam: 'CUET', category: 'ST',      cutoffScore: 108 },
-    { name: 'Delhi University (DU) — South Campus',  exam: 'CUET', category: 'EWS',     cutoffScore: 168 },
+    { name: 'Delhi University (DU) ',  exam: 'CUET', category: 'General', cutoffScore: 185 },
+    { name: 'Delhi University (DU) ',  exam: 'CUET', category: 'OBC',     cutoffScore: 162 },
+    { name: 'Delhi University (DU) ',  exam: 'CUET', category: 'SC',      cutoffScore: 128 },
+    { name: 'Delhi University (DU) ',  exam: 'CUET', category: 'ST',      cutoffScore: 108 },
+    { name: 'Delhi University (DU) ',  exam: 'CUET', category: 'EWS',     cutoffScore: 168 },
     { name: 'JNU — School of CS',                    exam: 'CUET', category: 'General', cutoffScore: 198 },
     { name: 'JNU — School of CS',                    exam: 'CUET', category: 'OBC',     cutoffScore: 175 },
     { name: 'JNU — School of CS',                    exam: 'CUET', category: 'SC',      cutoffScore: 138 },
